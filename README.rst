@@ -28,6 +28,14 @@ Get Started
 Read the `Wiki`_ to see the available classes and methods and
 know how to use them.
 
+Examples
+-----------
+- Riddles: A small & simple text based riddles game showing the
+  implementation of `discoIPC`_:
+  https://github.com/k3rn31p4nic/riddles-rich-presence
+
+*If want to add some examples, feel free to open a PR.*
+
 Links
 -----------
 
