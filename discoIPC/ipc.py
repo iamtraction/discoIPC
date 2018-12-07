@@ -1,6 +1,7 @@
 """The DiscordIPC class."""
 
 import os
+from io import open
 import platform
 import re
 import json
