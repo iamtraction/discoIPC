@@ -33,6 +33,9 @@ Examples
 - Riddles: A small & simple text based riddles game showing the
   implementation of `discoIPC`_:
   https://github.com/k3rn31p4nic/riddles-rich-presence
+- DiscoIPC Examples: Example scripts that send Rich Presence to
+  Discord using `discoIPC`_:
+  https://github.com/An0n3m0us/DiscoIPC-Examples
 
 *If want to add some examples, feel free to open a PR.*
 
